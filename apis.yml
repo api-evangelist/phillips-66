@@ -30,6 +30,16 @@ common:
     url: https://investor.phillips66.com/
   - type: Careers
     url: https://www.phillips66.com/careers/
+  - type: Integrations
+    url: https://www.phillips66.com/partners/
+integrations:
+  - name: Phillips 66
+  - name: Conoco
+  - name: Jet
+  - name: Phillips 66 Aviation
+  - name: Phillips 66 Lubricants
+  - name: Kendall
+  - name: Red Line
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
