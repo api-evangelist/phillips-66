@@ -22,6 +22,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/phillips-66-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/phillips66co
   - type: Website
@@ -34,6 +36,8 @@ common:
     url: https://www.phillips66.com/careers/
   - type: Integrations
     url: https://www.phillips66.com/partners/
+  - url: https://www.phillips66.com/feed/
+    type: Blog
 integrations:
   - name: Phillips 66
   - name: Conoco
