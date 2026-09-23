@@ -1,7 +1,9 @@
 ---
 title: Phillips 66 – Digital Transformation Strategies
 url: https://www.globaldata.com/store/report/phillips-66-enterprise-tech-analysis/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Phillips 66" press release artificial intelligence'
 position: 3
 source: serpapi-google

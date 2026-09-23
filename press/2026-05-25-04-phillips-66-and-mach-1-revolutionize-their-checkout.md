@@ -1,7 +1,9 @@
 ---
 title: Phillips 66 and Mach 1 Revolutionize Their Checkout ...
 url: https://investor.ncrvoyix.com/news-releases/news-release-details/phillips-66-and-mach-1-revolutionize-their-checkout-experience?mobile=1
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Phillips 66" press release artificial intelligence'
 position: 4
 source: serpapi-google

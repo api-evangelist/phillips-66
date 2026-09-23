@@ -1,7 +1,9 @@
 ---
 title: Elliott Announces Shareholders Vote for Change at Phillips ...
 url: https://www.prnewswire.com/news-releases/elliott-announces-shareholders-vote-for-change-at-phillips-66-302461930.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Phillips 66" press release artificial intelligence'
 position: 2
 source: serpapi-google
